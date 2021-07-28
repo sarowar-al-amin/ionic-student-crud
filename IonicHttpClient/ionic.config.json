@@ -1,7 +1,5 @@
 {
   "name": "Ionic4HttpClient",
-  "integrations": {
-    "capacitor": {}
-  },
+  "integrations": {},
   "type": "angular"
 }
