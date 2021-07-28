@@ -1,0 +1,34 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Abi Abdullah",
+      "age": "30",
+      "address": "094 Dhaka"
+    },
+    {
+      "id": 2,
+      "name": "Tom Cruse",
+      "age": "17",
+      "address": "14855 USA"
+    },
+    {
+      "id": 3,
+      "name": "Raisul Bari",
+      "age": "16",
+      "address": "612 Dhaka"
+    },
+    {
+      "name": "Habib",
+      "age": "35",
+      "address": "Dhaka",
+      "id": 4
+    },
+    {
+      "name": "Bear Grills",
+      "age": "46",
+      "address": "USA",
+      "id": 5
+    }
+  ]
+}
